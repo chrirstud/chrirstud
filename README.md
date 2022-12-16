@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @chrirstud
-- 👀 I’m interested in gaming, webdesign pretty much everything computer related.
+- 👋 Hi, I’m Christer Olsen.
+- 👀 I’m interested in pretty much everything computer related.
 - 🌱 I’m currently learning Front-End Development
